@@ -1,0 +1,7 @@
+{
+	"name": "AutoCookie",
+	"creator": "TodNL",
+	"description": "A ChatTriggers module which automatically clicks in Hypixel's Cookie Clicker minigame.",
+	"version": "1.0.0",
+    "entry": "cc.js"
+}
